@@ -2,8 +2,6 @@
 
 Hello! I'm a passionate coder 💻 who loves to stay on top of the latest technologies 🚀 and trends. I take pride in my work 🔥 and enjoy the process of creating elegant solutions to complex problems 💡.
 
-![](https://media.giphy.com/media/3o6gb32RlL4UzSvf8Q/giphy.gif)
-
 ## Skills
 - Web Development 🌐
 
@@ -12,4 +10,4 @@ Hello! I'm a passionate coder 💻 who loves to stay on top of the latest techno
 
 I'm always open to new opportunities and collaborations 🤝. Feel free to reach out to me if you want to discuss a project or just chat about the latest tech trends.
 
-![](https://media.giphy.com/media/l0Iy6D0JlKjrNvZnG/giphy.gif)
+
