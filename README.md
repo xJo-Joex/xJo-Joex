@@ -1,16 +1,13 @@
-### Hi there 👋
+# About Me
 
-<!--
-**xJo-Joex/xJo-Joex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm a passionate coder 💻 who loves to stay on top of the latest technologies 🚀 and trends. I take pride in my work 🔥 and enjoy the process of creating elegant solutions to complex problems 💡.
 
-Here are some ideas to get you started:
+## Skills
+- Web Development 🌐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- LinkedIn: https://www.linkedin.com/in/joevega-/
+
+I'm always open to new opportunities and collaborations 🤝. Feel free to reach out to me if you want to discuss a project or just chat about the latest tech trends.
+
+![](https://media.giphy.com/media/l0Iy6D0JlKjrNvZnG/giphy.gif)
