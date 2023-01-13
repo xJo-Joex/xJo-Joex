@@ -2,6 +2,8 @@
 
 Hello! I'm a passionate coder 💻 who loves to stay on top of the latest technologies 🚀 and trends. I take pride in my work 🔥 and enjoy the process of creating elegant solutions to complex problems 💡.
 
+![](https://media.giphy.com/media/3o6gb32RlL4UzSvf8Q/giphy.gif)
+
 ## Skills
 - Web Development 🌐
 
